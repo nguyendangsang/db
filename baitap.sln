@@ -8,6 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{F7E90520-A420-4D27-815E-0D5D1C9D2386}"
 	ProjectSection(SolutionItems) = preProject
 		Create Lecture.cs = Create Lecture.cs
+<<<<<<< HEAD
+=======
+		Researcher.cs = Researcher.cs
+>>>>>>> V2
 		Student.cs = Student.cs
 	EndProjectSection
 EndProject
