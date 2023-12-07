@@ -5,6 +5,13 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap", "baitap\baitap.csproj", "{B1A233F9-18E0-4435-9455-28D3342FC3BE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{F7E90520-A420-4D27-815E-0D5D1C9D2386}"
+	ProjectSection(SolutionItems) = preProject
+		Create Lecture.cs = Create Lecture.cs
+		Researcher.cs = Researcher.cs
+		Student.cs = Student.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
